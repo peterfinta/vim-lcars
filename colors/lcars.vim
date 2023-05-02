@@ -19,7 +19,7 @@ highlight CursorLine                 guibg=#303030 gui=None cterm=None term=None
 highlight EndOfBuffer  guifg=#cc6666 guibg=#000000 gui=None
 
 "ColorColum
-highlight ColorColumn  guifg=#ff0000 guibg=#000000 gui=None
+highlight ColorColumn  guifg=#ff0000               gui=None
 
 "Gui
 highlight VertSplit    guifg=#000000 guibg=#000000 gui=None
