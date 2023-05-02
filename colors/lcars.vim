@@ -15,7 +15,7 @@ highlight LineNrAbove  guifg=#000000 guibg=#ffcc66 gui=None
 highlight LineNr       guifg=#000000 guibg=#ffcc66 gui=None
 highlight LineNrBelow  guifg=#000000 guibg=#cc6666 gui=None
 highlight CursorLineNr guifg=#cc6666 guibg=#000000 gui=None cterm=None term=None
-highlight CursorLine                 guibg=#000000 gui=None cterm=None term=None
+highlight CursorLine                 guibg=#303030 gui=None cterm=None term=None
 highlight EndOfBuffer  guifg=#cc6666 guibg=#000000 gui=None
 
 "ColorColum
@@ -26,7 +26,7 @@ highlight VertSplit    guifg=#000000 guibg=#000000 gui=None
 highlight StatusLine   guifg=#000000 guibg=#cc6666 gui=bold
 highlight TabLineFill  guifg=#ffcc66 guibg=#000000 gui=bold
 highlight StatusLineNC guifg=#000000 guibg=#6688cc gui=bold
-highlight Visual                     guibg=#202020 gui=None
+highlight Visual                     guibg=#303030 gui=None
 
 "Syntax
 highlight Comment      guifg=#9999cc guibg=#000000 gui=None
